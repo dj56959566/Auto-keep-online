@@ -11,7 +11,8 @@
 3：可以添加环境变量
 ![PixPin_2024-12-19_18-16-11](https://github.com/user-attachments/assets/dbf1a840-55f5-4ed9-a662-8d3588a90431)
 
-# ps:在workers或设置中增加变量效果是一样的建议新手还是在变里增加更为方便。
+# 注意：
+ps:在workers或设置中增加变量效果是一样的建议新手还是在变里增加更为方便。
  1: URL_1 = https:// (保活的网址/节点)
  
  2: WEBSITE_1 = https:// (保活的网址/节点)
