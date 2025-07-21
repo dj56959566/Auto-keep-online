@@ -17,7 +17,9 @@
  1: URL_1 = https:// (保活的网址/节点)
  
  2: WEBSITE_1 = https:// (保活的网址/节点)
-
+## Telegram配置(不需要可忽略)
+const TG_ID = '';           // 替换为你的Telegram用户chat_id
+const TG_TOKEN = '';        // 替换为你的Telegram Bot的token
 ## 其他方式部署
 1：在基于node环境下的容器或vps（需要自己安装node环境）使用。
 
